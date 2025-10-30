@@ -12,6 +12,7 @@ Kelas   : 5IF3
 Link video yt: `https://youtu.be/jUEZjpZ1Iyg?si=xW0JUimdaCeC3qbA`
 
 2. Deskripsi singkat program
+
 a. Kelas Abstrak `Transportasi`
 
 Menjadi dasar bagi semua jenis transportasi. Menyimpan atribut umum seperti `id, nama, tarifDasar, dan kapasitas`.
